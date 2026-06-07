@@ -1,2 +1,2 @@
 you can visit here : <br/>
-https://student-lokeshgarhwal.github.io/NEWS/
+https://lokesh-garhwal.github.io/NEWS/
